@@ -1,0 +1,11 @@
+C:\Users\47571805\source\repos\Probando\Probando\bin\Debug\Probando.exe.config
+C:\Users\47571805\source\repos\Probando\Probando\bin\Debug\Probando.exe
+C:\Users\47571805\source\repos\Probando\Probando\bin\Debug\Probando.pdb
+C:\Users\47571805\source\repos\Probando\Probando\obj\Debug\Probando.csprojAssemblyReference.cache
+C:\Users\47571805\source\repos\Probando\Probando\obj\Debug\Probando.Form1.resources
+C:\Users\47571805\source\repos\Probando\Probando\obj\Debug\Probando.Properties.Resources.resources
+C:\Users\47571805\source\repos\Probando\Probando\obj\Debug\Probando.csproj.GenerateResource.cache
+C:\Users\47571805\source\repos\Probando\Probando\obj\Debug\Probando.csproj.CoreCompileInputs.cache
+C:\Users\47571805\source\repos\Probando\Probando\obj\Debug\Probando.exe
+C:\Users\47571805\source\repos\Probando\Probando\obj\Debug\Probando.pdb
+C:\Users\47571805\source\repos\Probando\Probando\obj\Debug\Probando.Form2.resources
